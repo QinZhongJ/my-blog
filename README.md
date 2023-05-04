@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 之年的博客
+tagline: 前端学习记录
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
